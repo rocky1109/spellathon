@@ -6,10 +6,10 @@ Spellathon is a quiz game where you are given a fixed alphabet and some variable
 
 Python 2.7 or 3.4.
 Following package(s) should be already installed & available in your system:
-```
-* <a href="https://riverbankcomputing.com/software/pyqt/download">PyQt4</a>
-* <a href="http://jocr.sourceforge.net/download.html">GOCR</a>
-```
+
+* **<a href="https://riverbankcomputing.com/software/pyqt/download">PyQt4</a>
+* **<a href="http://jocr.sourceforge.net/download.html">GOCR</a>
+
 
 
 ## How to start
