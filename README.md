@@ -21,6 +21,13 @@ Launch cmd/terminal in your project extracted directory and start it as:
 **NOTE**: Extracted project also contains 'words.txt'. Keep it in same working directory of 'spellathon.pyw'.
 
 
+## Screenshots
+
+![Screenshot-1](/screenshots/Screenshot from 2015-01-29 23_22_41.png)
+![Screenshot-2](/screenshots/Screenshot from 2015-01-29 23_25_06.png)
+![Screenshot-3](/screenshots/Screenshot from 2015-01-29 23_27_07.png)
+
+
 ## Author(s):
 
 * **<a href="mailto:riverdale1109@gmail.com">Rocky Ramchandani</a>**              (present)
